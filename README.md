@@ -116,6 +116,7 @@ To run tests, run the following command (functionality will be added in the futu
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] Create a class MyList that has an instance variable @list.
+
 - [x] In MyList implement a method #each that yields successive members of @list and uses the MyEnumerable module.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
